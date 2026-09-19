@@ -3,7 +3,7 @@
 # Tilemachos Aravanis
 
 PhD student in the [Visual Recognition Group](https://vrg.fel.cvut.cz/) at CTU in Prague, supervised by [Giorgos Tolias](https://cmp.felk.cvut.cz/~toliageo/).
-I work on **instance-level recognition, open-world segmentation and retrieval**: models that find, classify, detect and segment *particular* objects with little or no supervision.
+I work on **instance-level recognition, open-world segmentation and retrieval**. In a few words I am creating models that find, classify, detect and segment *particular* objects with little or no supervision.
 
 **Looking for a research internship starting April 2027 or later**. [Email me](mailto:t.aravanis77@gmail.com).
 
